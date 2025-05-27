@@ -4,7 +4,7 @@ A beautiful, responsive portfolio website built with vanilla HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://mohammedfaisar.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://mohammedfaisar-portfolio.netlify.app/)
 
 ## ✨ Features
 
