@@ -107,7 +107,7 @@ about: {
             description: "A full-stack To-Do List application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to efficiently manage their tasks with full CRUD operations",
             image: "assets/p3.jpg",
             technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
-            liveLink: "https://your-todo-demo.netlify.app",
+            liveLink: "https://mohammedfaisar-portfolio.netlify.app/",
             githubLink: "https://github.com/MdFaisar/ToDo-List-MERN-Stack-Project"
         },
         {
