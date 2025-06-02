@@ -115,7 +115,7 @@ about: {
             description: "It's a AI based trip planning assistant. Which gives a clear layout of the travel planning (day-to-day)",
             image: "assets/p4.jpg",
             technologies: ["Python", "Streamlit", "Llama AI", "Groq"],
-            liveLink: "https://your-portfolio.netlify.app",
+            liveLink: "https://tripai.pythonanywhere.com/",
             githubLink: "https://github.com/MdFaisar/trip_ai"
         },
     ],
