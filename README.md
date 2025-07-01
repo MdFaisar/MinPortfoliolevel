@@ -235,9 +235,3 @@ open index.html
 python -m http.server 8000
 # Then visit http://localhost:8000
 ```
-
-### Environment Setup
-
-No build process required! This is a static website that runs directly in the browser.
-
-**Happy coding! 🚀**
