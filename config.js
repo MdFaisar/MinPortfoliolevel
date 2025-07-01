@@ -18,7 +18,7 @@ window.portfolioConfig = {
 
 about: {
     description: "With a strong passion for technology, I’m building a solid foundation in software development and aiming for a thriving career in software engineering. My interests lie particularly in AI and cybersecurity innovations. Along this journey, I’ve completed several certifications and hands-on projects focused on AI and software development, further strengthening my expertise in the field.",
-    image: "assets/about-image.jpg", // Path to your about section image
+    image: "assets/about.jpg", // Path to your about section image
     
     // Education Details
     education: [
