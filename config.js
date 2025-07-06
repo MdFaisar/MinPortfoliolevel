@@ -8,7 +8,7 @@ window.portfolioConfig = {
         role: "AI - Software Developer & Cybersecurity Enthusiast",
         bio: "Passionate about technology and software developement, Working towards growing my expertise in software development and a amazing career in software engineering, with a strong interest in AI and cybersecurity innovations.",
         profileImage: "assets/profile.jpg", // Path to your profile image
-        resumeLink: "https://drive.google.com/file/d/1vRL3d2ZtUMXdO0FGVJb-I1XDiE-ycB8a/view?usp=drivesdk" // Replace with your Google Drive resume link
+        resumeLink: "https://drive.google.com/file/d/15FLyvCQrNpXhLrXfiaYzw7fMCzQ4y3QE/view?usp=drivesdk" // Replace with your Google Drive resume link
     },
 
     // About Section
