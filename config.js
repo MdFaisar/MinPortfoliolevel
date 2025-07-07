@@ -134,6 +134,15 @@ certifications: [
         issueDate: "2024"
     },
     {
+        title: "Cisco Certified Network Associate (CCNA)",
+        description: "Industry-recognized certification validating foundational knowledge in networking, including IP connectivity, security fundamentals, automation, and Cisco network infrastructure.",
+        image: "assets/cisco.jpg",
+        issuer: "Cisco",
+        technologies: ["Networking", "Routing & Switching", "IP Services", "Network Security"],
+        credentialLink: "https://www.credly.com/badges/837e2e85-f8fb-4701-8daf-f60c5314147d/print",
+        issueDate: "2024"
+    },
+    {
         title: "Infosys Certified - Frontend developer",
         description: "Certification validating skills in building attractive UI with scalable and reliable templates.",
         image: "assets/infosys.jpg",
