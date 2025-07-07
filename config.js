@@ -139,8 +139,8 @@ certifications: [
         image: "assets/cisco.jpg",
         issuer: "Cisco",
         technologies: ["Networking", "Routing & Switching", "IP Services", "Network Security"],
-        credentialLink: "https://www.credly.com/badges/837e2e85-f8fb-4701-8daf-f60c5314147d/print",
-        issueDate: "2024"
+        credentialLink: "https://www.credly.com/badges/c236f597-b50c-4d89-8ae1-27c695cb49b6",
+        issueDate: "2025"
     },
     {
         title: "Infosys Certified - Frontend developer",
@@ -178,16 +178,7 @@ certifications: [
         technologies: ["Docker", "Containers", "DevOps", "Kubernetes"],
         credentialLink: "https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=559bffdc11a063b1d0cbea8e644e883b",
         issueDate: "2025"
-    },
-    {
-        title:"ISO - Honours of Diploma in Computer Application (HDCA)",
-        description: "HDCA certification is a ISO - One year diploma certification, in which programming languages and computer applications are trained and certified",
-        image: "assets/iso.jpg",
-        issuer: "ISO",
-        technologies: ["Python", "c\c++","MySQL","HTML","CSS","Excel"],
-        credentialLink: "https://drive.google.com/file/d/16sMoKyR3lPlL5cn6eYNGeUeX_A3a1nuY/view?usp=drivesdk",
-        issueDate: "2023"
-    }
+    } 
 ],
 
     // Contact Information
